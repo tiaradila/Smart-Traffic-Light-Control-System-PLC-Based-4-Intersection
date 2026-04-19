@@ -1,0 +1,2 @@
+# Smart-Traffic-Light-Control-System-PLC-Based-4-Intersection
+Developed a PLC-based traffic light control system for a 4-intersection layout, programmed using ladder diagram logic on an Omron PLC. The system features real-time clock scheduling, emergency override, multi-phase timer sequencing, and automated condition-based switching. Simulated and validated using Factory I/O and monitored via an OCP.
